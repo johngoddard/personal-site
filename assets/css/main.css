@@ -2580,6 +2580,14 @@
 	align-items: center;
 }
 
+.item:hover{
+	cursor: pointer;
+}
+
+.info-overlay:hover{
+	cursor: pointer;
+}
+
 .port-head{
 	margin-bottom: 0;
 }
